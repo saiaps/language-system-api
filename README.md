@@ -63,6 +63,8 @@ Whatever serialization formats are used in this org.
 
 #### Logging
 
+There's one log aggregator across the organization. How do we send logs to it?
+
 #### Configuration
 
 What are our configuration practices?
@@ -75,23 +77,23 @@ Every database that we use in this organization: how do we access it from this l
 
 For libraries and applications, where are artifacts stored?
 
-### Deployment
+## Deployment
 
 How do we get applications into production?
 Is there a language-specific deploy process, or a particular configuration of the org-wide deployment tool?
 
-## Logging
+### Releasing
 
-There's one log aggregator across the organization. How do we send logs to it?
+When and how?
 
-## Alerting
+### Alerting
 
 How do alerts from these applications get to people?
 
-## Healthchecks
+### Healthchecks
 
 What is "healthy" anyway? what endpoints do applications implement for investigation?
 
-## Investigation
+### Investigation
 
 How do I find out what is running where? 
