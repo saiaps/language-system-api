@@ -83,3 +83,11 @@ There's one log aggregator across the organization. How do we send logs to it?
 ## Alerting
 
 How do alerts from these applications get to people?
+
+## Healthchecks
+
+What is "healthy" anyway? what endpoints do applications implement for investigation?
+
+## Investigation
+
+How do I find out what is running where? 
