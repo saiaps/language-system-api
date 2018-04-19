@@ -15,6 +15,10 @@ Why would you choose this language over any other at SAiaPS, and when would you 
 
 What team keeps the tooling and recommendations up to date? Who do you go to with questions?
 
+### Learning
+
+Recommend resources. Also include un-recommendations.
+
 ## Development
 
 ### Project Creation
