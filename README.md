@@ -55,7 +55,11 @@ Please specify standard libraries to use for these things, or "Please don't" if 
 
 Please tell us how to import the libraries, as well. Describe how dependency management works in this language system.
 
+Where do we find new libraries? What strategies does the community use to identify good libraries to use?
+
 #### HTTP calls
+
+How do we call other services? include authorization strategies.
 
 #### Serialization
 
