@@ -6,6 +6,8 @@ know what not to copy.
 
 ## Story
 
+![Story: why when who](story.png)
+
 ### Purpose
 
 Why was this language chosen? What kind of applications do we write in it? 
@@ -20,6 +22,8 @@ What team keeps the tooling and recommendations up to date? Who do you go to wit
 Recommend resources. Also include un-recommendations.
 
 ## Development
+
+![how do i read it, change it, make one](how-do-i.png)
 
 ### Reading
 
@@ -105,3 +109,9 @@ What is "healthy" anyway? what endpoints do applications implement for investiga
 ### Investigation
 
 How do I find out what is running where? 
+
+## Consider
+
+![four-sided project API](four-sided-api.png)
+
+A program (including a programming language) has many APIs. For users, for automations, for its own developers, and the developers of those automations.
