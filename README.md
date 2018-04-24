@@ -21,6 +21,10 @@ Recommend resources. Also include un-recommendations.
 
 ## Development
 
+### Reading
+
+What is the entry point for these applications? What conventions can help me find my way around?
+
 ### Project Creation
 
 How do I make a new application in this language? What are the standard starting points, and where does it get configured?
