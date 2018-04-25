@@ -37,7 +37,9 @@ How do I make a new application in this language? What are the standard starting
 
 What tools do we use to write code here?
 
-Ideally, provide a script for setting up a development environment. This may be in a container.
+For starters, describe everything you did to set up your computer to write code in this language comfortably.
+
+Ideally, provide a script for setting up a development environment. or a container and instructions for using it.
 
 ### Tests
 
