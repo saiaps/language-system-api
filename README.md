@@ -112,8 +112,6 @@ What is "healthy" anyway? what endpoints do applications implement for investiga
 
 How do I find out what is running where? 
 
-## Consider
+## Help
 
-![four-sided project API](four-sided-api.png)
-
-A program (including a programming language) has many APIs. For users, for automations, for its own developers, and the developers of those automations.
+How can I contact the team?
