@@ -23,7 +23,7 @@ Recommend resources. Also include un-recommendations.
 
 ## Development
 
-![how do i read it, change it, make one](how-do-i.png)
+![how do i read it, change it, make one](how-do-i.jpg)
 
 ### Reading
 
